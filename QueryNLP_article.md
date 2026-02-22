@@ -1,4 +1,4 @@
-### Building a Natural Language Interface for Databases with MCP and OpenAI
+# Building a Natural Language Interface for Databases with MCP and OpenAI
 
 In the era of Generative AI, the way we interact with data is fundamentally shifting. No longer do users need to master complex SQL syntax or navigate rigid BI dashboards. Instead, we can now "talk" to our data.
 
