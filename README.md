@@ -4,7 +4,7 @@
 [![OpenAI](https://img.shields.io/badge/AI-GPT--4o-orange.svg)](https://openai.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An advanced Model Context Protocol (MCP) server paired with **QueryNLP** — a premium web interface for natural language data exploration. Connect to your database, ask questions in plain English, and get SQL, results, and interactive Chart.js visualizations instantly.
+An advanced Model Context Protocol (MCP) server paired with **QueryNLP** - a web interface for natural language data exploration. Connect to your database, ask questions in plain English, and get SQL, results, and interactive Chart.js visualizations instantly.
 
 ![QueryNLP Preview](https://via.placeholder.com/800x450.png?text=QueryNLP+Interface+Preview) <!-- Placeholder for actual screenshot -->
 
